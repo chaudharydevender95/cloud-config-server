@@ -1,0 +1,6 @@
+server:
+  port: 8764
+
+test:
+  name: test name2
+  phone: 123-456-7895
